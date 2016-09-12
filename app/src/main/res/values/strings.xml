@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WiFiHotspotDemo</string>
+    <string name="create_hostspot">创建WIFI热点</string>
+    <string name="close_hostspot">关闭WIFI热点</string>
+    <string name="send_data">发送数据</string>
+    <string name="search">搜索WIFI</string>
+</resources>
